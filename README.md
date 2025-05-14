@@ -1,6 +1,6 @@
 ## Hi my Name is <a href="https://github.com/AmandaCarvalhoo" >Amanda Carvalho</a> 👋
 
-   * 🌱 I'm studying Advertising (5/8).<br>
+   * 🌱 I'm professional Advertising.<br>
    * 🌱 I'm currently learning full stack web development and UI + UX Design <br>
       * I have experience in Design and social media <br>
       * Most used programs: Photoshop, Ilustrator and Lightroom <br>  
